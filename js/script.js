@@ -80,7 +80,7 @@ const members = {
     runningMonth    :"July-24",
     previousMonth   :"June-24", // new addDecember
     upComingMonth   :"August 1,2024",
-    runningMealRate :79,
+    runningMealRate :81,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -94,7 +94,7 @@ const members = {
         garage_cost     :0,
         running_payable :2854,
         running_paid    :4500,
-        running_meal    :10,
+        running_meal    :12,
         // method calling
         preMonth,
         runningDiningCost,
@@ -113,7 +113,7 @@ const members = {
         garage_cost     :0,
         running_payable :2050,
         running_paid    :2100,
-        running_meal    :13,
+        running_meal    :15,
         // method calling
         preMonth,
         runningDiningCost,
@@ -164,13 +164,13 @@ const members = {
         post_payable        :4034,
         previous_paid       :5500,
         previous_dining_cost:1300,
-        payment             :{"06/07/24-Cash":2000},
+        payment             :{"06/07/24-Cash":2000,"13/07/24-Cash":3000},
         // running month
         stay_cost       :2500,
         garage_cost     :0,
         running_payable :3214,
-        running_paid    :2000,
-        running_meal    :16,
+        running_paid    :5000,
+        running_meal    :17,
         // method calling
         preMonth,
         runningDiningCost,
@@ -183,13 +183,13 @@ const members = {
         post_payable        :3493,
         previous_paid       :3500,
         previous_dining_cost:1250,
-        payment             :{"09/07/24-Cash":4000},
+        payment             :{"09/07/24-Cash":4000,"13/07/24-Cash":1000},
         // running month
         stay_cost       :3000,
         garage_cost     :0,
         running_payable :5123,
-        running_paid    :4000,
-        running_meal    :11,
+        running_paid    :5000,
+        running_meal    :15,
         // method calling
         preMonth,
         runningDiningCost,
@@ -208,7 +208,7 @@ const members = {
         garage_cost     :0,
         running_payable :3454,
         running_paid    :6000,
-        running_meal    :26,
+        running_meal    :28,
         // method calling
         preMonth,
         runningDiningCost,
