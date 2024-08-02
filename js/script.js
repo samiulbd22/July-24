@@ -107,12 +107,12 @@ const members = {
         post_payable        :2420,
         previous_paid       :4500,
         previous_dining_cost:1250,
-        payment             :{"11/07/24-DBBL":2100,"11/07/24-Cash":1100},
+        payment             :{"11/07/24-DBBL":2100,"11/07/24-Cash":1100,"30/07/24-Light":100},
         // running month
         stay_cost       :2000,
         garage_cost     :0,
         running_payable :2050,
-        running_paid    :3200,
+        running_paid    :3300,
         running_meal    :26,
         // method calling
         preMonth,
@@ -145,12 +145,12 @@ const members = {
         post_payable        :4120,
         previous_paid       :4200,
         previous_dining_cost:1250,
-        payment             :{"16/07/24-NAGAT":6500},
+        payment             :{"16/07/24-NAGAT":6500,"30/07/24-Mills":500},
         // running month
         stay_cost       :3500,
         garage_cost     :0,
         running_payable :5550,
-        running_paid    :6500,
+        running_paid    :7000,
         running_meal    :25,
         // method calling
         preMonth,
@@ -183,12 +183,12 @@ const members = {
         post_payable        :3493,
         previous_paid       :3500,
         previous_dining_cost:1250,
-        payment             :{"09/07/24-Cash":4000,"13/07/24-Cash":1000,"22/07/24-Cash":1000},
+        payment             :{"09/07/24-Cash":4000,"13/07/24-Cash":1000,"22/07/24-Cash":1000,"30/07/24-Mills":220},
         // running month
         stay_cost       :3000,
         garage_cost     :0,
         running_payable :5123,
-        running_paid    :6000,
+        running_paid    :6220,
         running_meal    :47,
         // method calling
         preMonth,
